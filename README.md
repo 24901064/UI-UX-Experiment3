@@ -1,19 +1,59 @@
 # UI-UX-Experiment3
 
 ## Aim:
-To Heuristic Evaluation of an Existing Website or App
+
+The aim of this experiment is to apply heuristic evaluation of existing websites or apps and redesign them by combining features of two competing applications to improve the overall user experience.
+
 ## Algorithm:
-1.Select and Compare 2–3 Competitor Apps/Websites 
-2.Perform Heuristic Evaluation
-3.Analyze and Document Findings 4.Propose and Apply Improvements
+
+**Project Name:** UX Evaluation – Amazon vs Flipkart
+
+**Choose Pages and Features to Test**
+
+   * Homepage: Check banners, menus, and search bar.
+   * Search: Try searching products and filtering results.
+   * Product Listing Page: Look at product cards, sorting, and filtering.
+   * Product Details Page: Check information clarity, images, reviews.
+   * Checkout Process: Evaluate how easy it is to complete a purchase.
+
+**Check Using Heuristics**
+
+   * Use basic UX rules like:
+   * Easy to navigate and understand
+   * Consistent layout and colors
+   * Clear feedback when users do something (like add to cart)
+   * Minimize errors and make recovery easy
+
+**Identify Problems**
+   * Note anything confusing, slow, or cluttered.
+   * Example: “Search results are confusing” or “Add-to-cart button is hard to see.”
+
+**Rate the Severity**
+   * Minor: Slight inconvenience
+   * Moderate: Makes the task harder but not impossible
+   * Major: Blocks user from completing a task
+
+**Suggest Improvements**
+   * For each problem, write a simple fix.
+   * Example: “Make the search bar bigger” or “Use consistent colors for buttons.”
+
+**Redesign (Optional)**
+   * Make mockups of improved pages using a design tool or AI image generator.
+   * Focus on clearer layout, easy navigation, and visually appealing design.
+
+**Compare Old vs New**
+   * Take screenshots of the original pages and the redesigns.
+   * Show how your suggestions improve user experience.
+
+**Target Audience**
+* People who shop online often and want fast, easy, and smooth browsing.
+* Users who like a clean and consistent design with clear information.
+
 ## Output:
-1. Visibility of System Status- Amazon offers consistent progress indicators during navigation and checkout.- Flipkart shows feedback but occasionally with minor delays.- Improvement: Ensure immediate visual feedback on all user actions.
-2. Match Between System and Real World- Both platforms use familiar terminology and intuitive icons.- Improvement: Continue aligning technical language with user expectations.
-3. User Control and Freedom- Amazon supports flexible navigation and undo actions.- Flipkart’s checkout is slightly more restrictive.- Improvement: Simplify checkout and enhance navigation consistency.
-4. Consistency and Standards- Amazon maintains color and typography consistency.- Flipkart occasionally varies spacing and font use.- Improvement: Apply uniform spacing and visual hierarchy throughout.
-5. Aesthetic and Minimalist Design- Amazon’s homepage is dense with content and promotional clutter.- Flipkart maintains a cleaner, more open layout.- Improvement: Use whitespace and clean grouping for readability.
-<img width="1536" height="1024" alt="ui" src="https://github.com/user-attachments/assets/2a04f7e7-f384-4793-8fb0-8e1477cf57aa" />
+
+<img width="1895" height="1078" alt="image" src="https://github.com/user-attachments/assets/118078a2-c29e-4452-83b3-5ef38e00e7aa" />
+
 
 ## Result:
-The Heuristic Evaluation of an Existing Website or App is created and verified.
 
+Succesfully analyzed and deployed .
